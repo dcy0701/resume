@@ -44,8 +44,8 @@
 **项目职责**： 
 - 负责新项目的搭建，根据团队技术栈选择了`VueJs`+`TypeScript`系(`Vuex-class`, 魔改`Vue-class-component`，`vue-property-decorator`等);
 - 解决不同项目组不同技术栈的组件复用问题，搭建B端业务组件库，支持按需加载；
-- 对`vue-property-decorator`进行定制化，增添`reflect-metadata`和多个装饰器。
-- 项目的完成沉淀出多个工具和库，如符合业务特点的各类组件生成器，以及符合项目特点的`babel`插件等。
+- 对`vue-property-decorator`进行定制化，增添`reflect-metadata`和多个装饰器;
+- 项目的完成沉淀出多个工具和库，如符合业务特点的各类组件生成器，以及符合项目特点的`babel`插件等;
 - 沉淀出一个工程完善，技术栈优秀，安全的脚手架项目，目前在B端多个项目应用广泛。
 
 ####  美团点评点餐m端&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;前端开发
@@ -54,15 +54,15 @@
 **项目职责**： 
 - 负责业务的迭代开发;
 - 负责项目流程的改进，加入`husky`和一些`npm scripts` 等改善发布流程，引入babel插件来支持内部UI组件库按需加载;
-- 负责技术栈改进，引入函数式的`HOC`库`recompose`来改善组件写法，并且形成了规范
+- 负责技术栈改进，引入函数式的`HOC`库`recompose`来改善组件写法，并且形成了规范。
 
 #### 搜狗云表情&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;前后端开发
 **项目描述**： 搜狗云表情是搜狗输入法表情SDK的衍生项目，主要负责输入法SDK，搜狗云表情，小程序等。
 
 **项目职责**： 
-- 维护表情来源，利用`nightmare`进行表情定时以及可配置化爬取；
-- 负责数据接口提供；
-- 负责`App`的数据统计分析，利用`Python`和`hadoop`集群进行日志分析；
+- 维护表情来源，利用`nightmare`进行表情定时以及可配置化爬取;
+- 负责数据接口提供;
+- 负责`App`的数据统计分析，利用`Python`和`hadoop`集群进行日志分析;
 
 ## 个人项目
 - [angular-onion](https://github.com/dcy0701/angular-onion)：封装meta信息组建AngularJs组件
