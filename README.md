@@ -12,10 +12,10 @@
 - 期望地点:  上海
 
 ## 工作技能
-- React > AngularJS > Vue
-- 熟悉ES2015+
-- 熟悉TypeScript
-- 了解NodeJS
+- `React` > `AngularJS` > `Vue`
+- 熟悉`ES2015+`
+- 熟悉`TypeScript`
+- 了解`NodeJS`
 
 ## 工作经历
 #### 美团点评 前端开发工程师 （2017/04 - 2018/08)
